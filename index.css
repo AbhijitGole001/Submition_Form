@@ -1,0 +1,73 @@
+.rightrm{
+
+    background-color:#006751;
+  }
+  .limg{
+    max-height: 400px; 
+    position: relative;
+  }
+  .text-l-content{
+    position: absolute;
+    bottom: 10%;
+    color: white;
+    padding-left: 79px;
+  }
+  .leftdiv{
+    height:463px;
+ background-image: url("Img.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  .rightrm{
+  padding: 40px;
+  min-height: 463px;
+  padding-top: 1px;
+
+  }
+
+  .right-t{
+    font-weight: bold;
+    color: white;
+  }
+
+  .sub{
+    color: white;
+  }
+   
+   #col{
+    color: white;
+   }
+   .checkbox{
+    color: white;
+   }
+
+   #abh{
+    margin-left: 30%;
+    background-color:green;
+    border: 1px solid green;
+   }
+   
+.btn-reset{
+    background-color:green ! important;
+    border: 1px solid green;
+}
+  .btnjoinus:hover{
+ background-color: #b6b6b6;
+  }
+  .text-l-content h3,.text-l-content h5
+  {
+    font-weight: 700;
+  }
+
+  
+  .btn-green{
+   
+    color:black;
+    font-weight: bold;
+    margin-right:2px;
+    
+    border-radius:5px;
+  }
+  .error{display: none;}
+  .sucessinfo{display: none;}
